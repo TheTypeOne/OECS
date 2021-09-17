@@ -1,0 +1,21 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+          {
+            // Name of configuration; appears in the launch configuration drop down menu.
+            "name": "Cars.exe",
+            // Type of configuration. Possible values: "node", "mono".
+            "type": "mono",
+            // Workspace relative or absolute path to the program.
+            "program": "cars.exe",
+        }, 
+        {
+            "type": "mono",
+        }
+     
+    ]
+}
